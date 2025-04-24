@@ -1,10 +1,32 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chrisjude254/chrisjude254/blob/main/myqualities.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source srcset="[https://github.com/chrisjude254/chrisjude254/blob/main/myqualities.png?raw=true](https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true)">
+ <img alt="Qualities of Chris: Kind, Diligent and Thoughtful" src="https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true">
 </picture>
+
+
+## About Me 
+
+My nickname is krthedev. I'm happy to be alive. 
+
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | LANGUAGES |
+|-----:|---------------|
+|     1| Elixir        |
+|     2| Rust          |
+|     3| R             |
+
+</details>
+
+
+---
+> Talent is insignificant, I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance." - James Arthur Baldwin
+
+
+
 
 <!--
 **chrisjude254/chrisjude254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
