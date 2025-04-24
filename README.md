@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chrisjude254/chrisjude254/blob/main/myqualities.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 <!--
 **chrisjude254/chrisjude254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
