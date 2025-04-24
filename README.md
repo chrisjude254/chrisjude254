@@ -11,7 +11,7 @@
 My nickname is krthedev. I'm happy to be alive. 
 
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top languages</summary>
 
 | Rank | LANGUAGES |
 |-----:|---------------|
