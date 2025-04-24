@@ -2,7 +2,7 @@
 
 <picture>
  <source srcset="[https://github.com/chrisjude254/chrisjude254/blob/main/myqualities.png?raw=true](https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true)">
- <img alt="Qualities of Chris: Kind, Diligent and Thoughtful" src="https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true">
+ <img alt="Qualities of Chris: Kind, Diligent and Thoughtful" src="https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true" width="800" height="400">
 </picture>
 
 
@@ -23,7 +23,7 @@ My nickname is krthedev. I'm happy to be alive.
 
 
 ---
-> Talent is insignificant, I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance." - James Arthur Baldwin
+> "Talent is insignificant, I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance." - James Arthur Baldwin
 
 
 
