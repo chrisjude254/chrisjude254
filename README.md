@@ -13,7 +13,7 @@ My nickname is krthedev. I'm happy to be alive.
 <details open>
 <summary>My top languages</summary>
 
-| Rank | LANGUAGES |
+| RANK | LANGUAGES |
 |-----:|---------------|
 |     1| Elixir        |
 |     2| Rust          |
