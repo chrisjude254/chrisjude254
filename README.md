@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <picture>
- <source srcset="[https://github.com/chrisjude254/chrisjude254/blob/main/myqualities.png?raw=true](https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true)">
  <img alt="Qualities of Chris: Kind, Diligent and Thoughtful" src="https://github.com/chrisjude254/chrisjude254/blob/main/meetchris.png?raw=true">
 </picture>
 
